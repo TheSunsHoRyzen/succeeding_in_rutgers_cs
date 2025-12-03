@@ -75,3 +75,5 @@ College textbooks are expensive. I never bought a textbook in any of my years. M
 
 ## Consider doing research
 I haven’t done research myself, but it’s pretty straightforward to get involved in undergraduate research. Some orgs hold Research Fairs where you can talk to professors about what they study, or you can browse professors’ [portfolios](https://www.cs.rutgers.edu/people/faculty/professors) yourself, see what’s interesting, reach out to them in-person or via email, get As in their classes and talk to them, and ask to help out. They’ll give you stuff to do if they think you can handle it. It’s a good way to diversify your activities, especially if you’re considering graduate school. Also, you don’t have to just consider CS research, since tech proficiency lends itself to help in so many interdisciplinary research efforts. Rutgers is a research institution, so I’m sure you can Google around.
+
+
