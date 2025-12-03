@@ -5,7 +5,7 @@ First and foremost, take care of yourself and prioritize your personal mental an
 
 You should not feel bad that you have less experience than others when you start college; in general, you shouldn’t feel bad about this when starting anything new. All the older, more experienced people who seem to know what they’re doing were in your shoes at some point.
 
-Most everyone in college has [impostor syndrome](https://www.urbandictionary.com/define.php?term=imposter+syndrome), and this will persist throughout life. It’s good to acknowledge it but not give that voice in your head much credence. This takes time and effort, more so for some than others. It’s up to you, mainly, to build a solid mental and physical foundation for yourself.
+Most everyone in college has [impostor syndrome](https://ctl.stanford.edu/students/imposter-syndrome), and this will persist throughout life. It’s good to acknowledge it but not give that voice in your head much credence. This takes time and effort, more so for some than others. It’s up to you, mainly, to build a solid mental and physical foundation for yourself.
 
 
 ## Adjust your definition of “intelligence”
@@ -13,13 +13,13 @@ There are many different [types of intelligence](https://www.cleverism.com/types
 
 
 ## Adjust your definition of what is “hard” and what is “easy”
-It’s usually pretty clear to see the differences between people who think “hard” means “something that you put a lot of time into but still don’t understand effectively” and people who think “hard” means “anything that takes effort”. The latter kind of person is pretty prevalent at Rutgers and in the world, but try to be the former kind of person. In an extremist opinion, my older brother would say that “nothing is hard, some things are just easier than others.”
+It’s often clear who sees “hard” as “putting in a lot of time but still not fully understanding something” versus who sees “hard” as “anything that requires effort.” The latter kind of person is pretty prevalent at Rutgers and in the world, but try to be the former kind of person. In an extremist opinion, my older brother would say that “nothing is hard, some things are just easier than others.”
 
 
 ## Stretch yourself
-When I was a freshman, I asked my older brother: how should I fill up my time when there’s so much to do? When will I know I’ve reached my limit? He said “you’ll never know how big your plate is until there’s so much on it that things start to fall off.” When I started following this, I found that I could handle a lot more than I previously thought myself capable of. Every day I felt myself stretching my capabilities, like muscles growing after undergoing intensive cycles of strain and stretch and rest. And messing up is okay - it’s college, it’s the safest time in your life to mess up. But take this advice with a grain of salt, since he comes from an “age of heroes” where the ideal CS student stayed up all night every night coding up fancy new thingamajigs and playing Smash Bros. You should find your balance between discomfort and comfort. If you feel you can do more or want more from yourself, [lean towards discomfort](https://i.pinimg.com/originals/f0/3a/cc/f03acc9fdba523e46841d9d6e362a6bd.jpg).
+When I was a freshman, I asked my older brother: how should I fill up my time when there’s so much to do? When will I know I’ve reached my limit? He said “you’ll never know how big your plate is until there’s so much on it that things start to fall off.” When I started following this, I found that I could handle a lot more than I previously thought myself capable of. Every day I felt myself stretching my capabilities, like muscles growing after undergoing intensive cycles of strain, stretch and rest. And messing up is okay - it’s college, it’s the safest time in your life to mess up. But take this advice with a grain of salt, since he comes from an “age of heroes” where the ideal CS student stayed up all night every night coding up fancy new thingamajigs and playing Smash Bros. You should find your balance between discomfort and comfort. If you feel you can do more or want more from yourself, [lean towards discomfort](https://i.pinimg.com/originals/f0/3a/cc/f03acc9fdba523e46841d9d6e362a6bd.jpg).
 
-My older brother would liken self-growth to Pokemon contests -- you know the pentagon that says how Cool or Smart or Cute your pokemon is? Make one for yourself on axes and metrics that you want to measure yourself with and track your progress over time.
+My older brother would liken self-growth to Pokemon contests -- you know the pentagon that says how Cool, Smart, or Cute your pokemon is? Make one for yourself on axes and metrics that you want to measure yourself with and track your progress over time.
 
 ![Mood](https://i.imgur.com/fxhDDil.jpg)
 
@@ -31,7 +31,7 @@ Why are you at college? Do you want to change the world? How? Do you just want s
 
 
 ## Success is a function of time management and determination
-Succeeding in Rutgers CS is less a question of aptitude, and more a question of time management and determination. In other words, it’s not about how talented you are, it’s about what you choose to spend your time on, and how efficiently you spend it. If you think you’re not smart, surprise, everyone thinks that, except incels, which I hope you’re not. There are only a handful of classes that require more talent than hard work. If you’re asking, “does this schedule look doable? I don’t know if I’m smart enough”, you should instead ask yourself, “do I want to commit significant amounts of my headspace this semester to learning and exploring this topic? It’ll take time, but I can do it.”
+Succeeding in Rutgers CS is less a question of aptitude, and more a question of time management and determination. In other words, it’s not about how talented you are, it’s about what you choose to spend your time on, and how efficiently you spend it. If you think you’re not smart, surprise! Everyone feels that way at some point—some people are just better at hiding it. There are only a handful of classes that require more talent than hard work. If you’re asking, “does this schedule look doable? I don’t know if I’m smart enough”, you should instead ask yourself, “do I want to commit significant amounts of my headspace this semester to learning and exploring this topic? It’ll take time, but I can do it.”
 
 
 ## Be intentional
